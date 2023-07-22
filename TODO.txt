@@ -3,3 +3,4 @@ add new security
 TEST TEST
 
  bu release1 de deyirsdirildi
+ bu release2 de deyisdirildi
